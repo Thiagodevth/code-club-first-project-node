@@ -16,7 +16,7 @@
        = Middleware => INTERCEPTADOR => Tem o poder de parar ou alterar dados da requisição
 
 */
-// importar biblioteca (express) para o index.js
+// importar framework (express) para o index.js
 const express = require('express')// Framework
 const uuid = require('uuid')// bibioteca (id) unico
 const port = 3000

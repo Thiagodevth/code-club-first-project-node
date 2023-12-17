@@ -1,7 +1,7 @@
 # Project Node.js
 
 Projeto na parte de Back-End onde trabalhei os metodos GET, POST PUT e DELETE, e cada um desse tem uma função especifica, (GET)=> Buscar informações no back-end e mostra, (POST)=> Criar informações no back-end,
- (PUT / PATCH)=> Alterar / Atualizar informações no back-end, (DELETE)=> Deletar informaçõs no back-end, esse projeto é voltado para o back-end onde criei essas rotas
+ (PUT / PATCH)=> Alterar / Atualizar informações no back-end, (DELETE)=> Deletar informaçõs no back-end, esse projeto é voltado para o back-end onde criei essas rotas, e para poder criar, buscar, atualizar e deletar, uso uma API que cria um ID de usuario unico universal, e para este projeto uso um Framework bastante conhecido que o (Express), uso tamtem a API (UUID) que cria id unico.
 
 <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js">
