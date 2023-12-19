@@ -50,6 +50,6 @@ PATCH /order/:id: Essa rota recebe o id nas configurações e assim que ela para
 <h2>Rota (PATCH) <h3>PATCH atualiza o status do pedido para pronto</h3></h2>
 <img src="./assets/Captura de Tela (62).png">
 <br>
-<h2>Rota (DELETE) GET mostra usuario deletado por DELETE</h2>
+<h2>uso um Middleware que é chamado em todas as rotas e tem um console que mostra o método da requisição(GET/POST/PUT/DELETE) e também a URL da requisição </h2>
 <img src="./assets/Captura de Tela (63).png">
 <br>
